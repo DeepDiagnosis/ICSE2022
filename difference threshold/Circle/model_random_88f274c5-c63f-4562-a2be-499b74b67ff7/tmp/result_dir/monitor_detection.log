@@ -1,0 +1,32 @@
+checktype,current_epoch,issue_list,time_usage,Describe
+epoch,0,[],1.796280860900879,No Issue now
+epoch,3,[],2.0013067722320557,No Issue now
+epoch,6,[],2.050151824951172,No Issue now
+epoch,9,[],2.0984230041503906,No Issue now
+epoch,12,[],2.2261528968811035,No Issue now
+epoch,15,[],2.513317823410034,No Issue now
+epoch,18,[],2.639683723449707,No Issue now
+epoch,21,[],2.7658166885375977,No Issue now
+epoch,24,[],2.8048298358917236,No Issue now
+epoch,27,[],2.9229938983917236,No Issue now
+epoch,30,[],2.960545778274536,No Issue now
+epoch,33,[],2.9987740516662598,No Issue now
+epoch,36,[],3.1145339012145996,No Issue now
+epoch,39,[],3.2298378944396973,No Issue now
+epoch,42,[],3.267838954925537,No Issue now
+epoch,45,[],3.3822720050811768,No Issue now
+epoch,48,[],3.419747829437256,No Issue now
+epoch,51,[],3.45681095123291,No Issue now
+epoch,54,[],3.4944448471069336,No Issue now
+epoch,57,[],3.531582832336426,No Issue now
+epoch,60,[],3.5690338611602783,No Issue now
+epoch,63,[],3.6060869693756104,No Issue now
+epoch,66,[],3.7217087745666504,No Issue now
+epoch,69,[],3.7588658332824707,No Issue now
+epoch,72,[],3.8740217685699463,No Issue now
+epoch,75,[],3.9108779430389404,No Issue now
+epoch,78,[],3.948025703430176,No Issue now
+epoch,81,[],3.9843966960906982,No Issue now
+epoch,84,[],4.0216028690338135,No Issue now
+epoch,87,[],4.139869928359985,No Issue now
+epoch,90,['explode'],4.177160978317261,Found Issue Stop Training! Starting the repair procedure.
