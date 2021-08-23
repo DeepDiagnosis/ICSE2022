@@ -1,0 +1,4 @@
+solution,times,issue_list,train_result,describe
+selu,0,['explode'],0.6566666960716248,Using 'SeLU' activation in each layers' activations; Use 'lecun_uniform' as the kernel initializer.
+relu,0,[],0.846666693687439,Using 'ReLU' activation in each layers' activations; Use 'he_uniform' as the kernel initializer.
+------------------Solved! Time used 15.730867147445679!-----------------
