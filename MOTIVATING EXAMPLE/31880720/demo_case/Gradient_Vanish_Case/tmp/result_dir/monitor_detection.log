@@ -1,0 +1,2 @@
+checktype,current_epoch,issue_list,time_usage,Describe
+epoch,0,['relu'],36.549180030822754,Found Issue Stop Training! Starting the repair procedure.

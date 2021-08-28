@@ -1,0 +1,4 @@
+checktype,current_epoch,issue_list,time_usage,Describe
+-----Using leaky solution to retrain Detail can be found in the directory!-----
+epoch,0,['relu'],49.86089587211609,Found Issue Stop Training! Starting the repair procedure.
+-------------------------------

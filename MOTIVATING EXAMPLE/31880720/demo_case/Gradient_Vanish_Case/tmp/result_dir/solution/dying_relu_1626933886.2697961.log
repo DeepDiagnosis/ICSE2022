@@ -1,0 +1,10 @@
+solution,times,issue_list,train_result,describe
+selu,0,['relu'],0.5,Using 'SeLU' activation in each layers' activations; Use 'lecun_uniform' as the kernel initializer.
+bn,0,['relu'],0.5,Using 'BatchNormalization' layers after each Dense layers in the model.
+initial,0,['relu'],0.5,Using 'lecun_uniform' initializer as each layers' kernel initializer;         Use 'glorot_normal' initializer as each layers' bias initializer.
+initial,1,['relu'],0.5,Using 'he_normal' initializer as each layers' kernel initializer;         Use 'glorot_uniform' initializer as each layers' bias initializer.
+initial,2,['relu'],0.5,Using 'he_normal' initializer as each layers' kernel initializer;         Use 'glorot_normal' initializer as each layers' bias initializer.
+leaky,0,['relu'],0.5,Using advanced activation '{}' instead of each layers' activations.
+leaky,1,['relu'],0.5,Using advanced activation '{}' instead of each layers' activations.
+leaky,2,['relu'],0.5,Using advanced activation '{}' instead of each layers' activations.
+------------------Unsolved..Time used 495.82589197158813!-----------------
