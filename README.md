@@ -15,6 +15,8 @@ This repository contains the reproducibility package of DeepDiagnosis
 * Contains the experiments of saturated activation for Sigmoid and Tanh
 #### [difference threshold](https://github.com/DeepDiagnosis/ICSE2022/tree/main/difference%20threshold):
 * Contains the result of AUTOTRAINER on normal models with different threshold (accuracy =100%)
+#### [Table 6](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Table%206)
+* Complete result of Table 6
 
 
 
