@@ -1,0 +1,143 @@
+/raw_data/Blob_AT/Blob/repaired/double_random_5c106e52-a0e3-4313-a6db-e54b74c4bec8/		Batch 4: MDL, terminating training		 --- 2.201845 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_08e65684-75c4-4313-9b02-564b1544e640/		Batch 4: MDL, terminating training		 --- 2.022203000000001 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_2569b90f-40f1-4f14-af2b-dc24443ad831/		Batch 4: MDL, terminating training		 --- 4.9502880000000005 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_bd4e58b7-3463-4768-a189-7fbb48a5ec2a/		Batch 4: MDL, terminating training		 --- 5.7254950000000004 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_5b4961a2-425c-478f-91b0-59da2ccb9219/		Batch 4: MDL, terminating training		 --- 6.829242000000001 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_21615cd0-58cc-4879-beb3-cf7ce0bbdf8c/		Batch 29 layer 2: Error in Weights, terminating training		 --- 40.680527 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_4bd0c818-3743-4dc0-b0fd-6b4efaad3300/		Batch 4 layer 0: Error in forward, terminating training		 --- 2.2987930000000034 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_6bc2a4a2-25a4-4cf9-a8a8-6c04e00a1fa9/		Batch 4: MDL, terminating training		 --- 2.308250000000001 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_d7e767b2-0ca1-487e-a989-66c102a7acc5/		Batch 4: MDL, terminating training		 --- 2.240836999999999 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_1741609f-b7d2-4898-9db8-27244f57a791/	
+/raw_data/Blob_AT/Blob/repaired/config_random_84fa15b5-a743-4483-8083-dc425e6a805d/		Batch 4: MDL, terminating training		 --- 2.532465000000002 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_384108d9-3a0d-44af-95d8-2c6a7fdd01fb/		Batch 9: MDL, terminating training		 --- 7.682089000000019 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_f300c09d-c105-4fd9-9c90-5c828f20aca2/		Batch 4 layer 1: Error in forward, terminating training		 --- 2.4509610000000066 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_69c0b55c-4a70-4804-84ea-20746214711d/		Batch 4: MDL, terminating training		 --- 7.001120000000014 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_bf2c0b67-99d0-4118-b669-03a85f66d04a/		Batch 4: MDL, terminating training		 --- 9.255158000000051 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_e73037c2-7119-414c-88e9-ed1b3a7c887d/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.7850049999999555 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_07eb9116-1515-4602-9fd3-b5339ed502fa/		Batch 4: MDL, terminating training		 --- 2.667147 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_0fe3c8f9-5a7e-42e0-8552-ca84ea7daac5/		Batch 4 layer 12: Error in Weights, terminating training		 --- 7.123917000000006 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_202a8f7a-f9d1-40ab-bb73-e3583608a9a7/		Batch 4 layer 0: Error in forward, terminating training		 --- 5.360009000000105 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_f7e7b91b-02ad-4371-b869-6d1585afb90d/		Batch 4 layer 0: Error in forward, terminating training		 --- 4.4696780000000444 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_70c495f7-585f-4826-a43b-eb68c80a5ecc/		Batch 49: MDL, terminating training		 --- 35.70471199999997 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_3be67487-f5e4-4ccd-b9fd-ab261eec6faf/		Batch 34: MDL, terminating training		 --- 58.07343300000002 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_93fa3658-c37f-4434-9788-7940382ce62a/		Batch 4: MDL, terminating training		 --- 5.722222999999985 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_18fb60e1-8fe0-425c-98a2-5fff5d242fea/		Batch 99 layer 4: Error in Weights, terminating training		 --- 269.433718 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_9b8bdaab-509f-4e64-b8e8-7784276ff65f/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.9115719999999783 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_90d6a64b-524c-46e1-b030-c26ed2bb0b53/		Batch 4 layer 0: Error in Weights, terminating training		 --- 10.265612000000033 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_8e4ab4af-5515-479c-b094-0f1a3667fd0c/		Batch 9: MDL, terminating training		 --- 6.26392199999998 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_84c77206-3aee-4ed6-bb3d-9d4c91b6dddf/	
+/raw_data/Blob_AT/Blob/repaired/config_random_4d8c0cb6-df8f-454e-8185-1b4b466d1929/		Batch 4: MDL, terminating training		 --- 3.4091300000000047 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_4d90b026-afa4-423d-9676-3f95d3eb70ed/		Batch 4: MDL, terminating training		 --- 10.699906000000283 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_c5297af6-42d2-4007-9162-f472dcab1eda/		Batch 4: MDL, terminating training		 --- 3.3820299999997587 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_fcb9f014-5f49-4deb-8a4f-fa83ad7174b1/		Batch 11 layer 6: Error in delta Weights, terminating training		 --- 9.040797999999995 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_6d545a8d-f440-47b4-bd2a-7ae3247ccb9b/		Batch 4: MDL, terminating training		 --- 3.3385149999999157 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_cc2637d1-f596-4bec-bceb-b53fe4db6af3/		Batch 4 layer 12: Error in Weights, terminating training		 --- 8.332034000000021 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_ca87db08-673e-4323-a082-b802a815a263/	
+/raw_data/Blob_AT/Blob/repaired/config_random_5ae78573-0fbd-41f6-9f22-bd6674fb1420/		Batch 4: MDL, terminating training		 --- 3.9619790000006105 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_661b4e86-71f4-428d-8905-4f8d170addab/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.0652780000000348 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_cfec850e-c3ef-429d-8976-16d5ecd07758/	
+/raw_data/Blob_AT/Blob/repaired/double_random_06af7d5b-f9ab-47b5-9b3a-ae6e627fdb97/		Batch 4: MDL, terminating training		 --- 11.132963000000018 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_b09a7841-1f52-4b23-b7d3-63684c97d024/		Batch 4: MDL, terminating training		 --- 4.077626999999666 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_685b3ec9-d9ca-4947-9dce-c53c7d1d086a/		Batch 4: MDL, terminating training		 --- 9.012433999999303 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_0b6f114d-61ed-4c11-8a05-53b2630a5486/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.9642559999992955 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_0448d813-64d3-4c4e-bee3-86c9fb50f69b/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.858035999999629 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/config_random_c972a2ac-3a75-4f69-ac08-9eb9b4f9a471/		Batch 4: MDL, terminating training		 --- 4.0852139999997235 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/model_e706e7cd-0d2a-4cbb-afa9-197315b2caed/		Batch 4: MDL, terminating training		 --- 7.387652000000344 seconds ---	
+
+/raw_data/Blob_AT/Blob/repaired/double_random_569824c3-1eed-480c-84ea-99cf6560df94/		Batch 4: MDL, terminating training		 --- 11.436636999999791 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_11ec7bf3-2099-4a04-bffb-b1b6c8370126/		Batch 4: MDL, terminating training		 --- 4.349525999999969 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_366f529e-7b6f-4336-8063-4bf1528296da/		Batch 4: MDL, terminating training		 --- 4.317406000000119 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_b48f00f7-4b88-44cf-be2a-067dd642febe/		Batch 4: MDL, terminating training		 --- 4.322076000000379 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_4660c6e8-c93d-4d7a-a017-32383d6e7117/		Batch 4: MDL, terminating training		 --- 4.339640000000145 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_0102e300-e51d-45ee-bb35-f057ffd0e955/	
+/raw_data/Blob_AT/Blob/normal/model_random_0dadd28b-8bdd-4d4e-83f7-6ab11143819a/	
+/raw_data/Blob_AT/Blob/normal/config_random_6ad36153-8109-47d6-b502-ce79680f0676/	
+/raw_data/Blob_AT/Blob/normal/model_random_cdd99c72-4399-4723-bcbd-90e39f4fe00c/	
+/raw_data/Blob_AT/Blob/normal/model_random_971cfff6-ee3b-44c6-827f-55ecaf38203c/		Batch 4: MDL, terminating training		 --- 10.62342499999977 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_64d86e51-8a60-4a8f-8ab6-04597f6b22b2/		Batch 4: MDL, terminating training		 --- 8.61048800000026 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_fe379a08-d013-4670-93e6-7f554d1b408f/		Batch 4: MDL, terminating training		 --- 8.652522000000317 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_5ecd581e-aab0-4abc-819d-e1577331bc72/	
+/raw_data/Blob_AT/Blob/normal/config_random_600eb413-cd3e-4b1c-beb0-d2d8ecaef292/	
+/raw_data/Blob_AT/Blob/normal/double_random_a4d82733-46cc-45b1-815d-b33ca2111281/	
+/raw_data/Blob_AT/Blob/normal/double_random_54f7ba3b-6a1a-4dff-b1ed-491cc3dc87b4/	
+/raw_data/Blob_AT/Blob/normal/model_random_b26be1e7-1218-496e-aadd-5870060bb11e/		Batch 4: MDL, terminating training		 --- 7.196477000001323 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_953b07b0-9126-4363-8613-2426e4224dc4/	
+/raw_data/Blob_AT/Blob/normal/config_random_60787ba0-204d-4d49-b555-5101b03e11bb/	
+/raw_data/Blob_AT/Blob/normal/config_random_8b57a41c-c694-4fd7-80a4-2027eb8af659/		Batch 4: MDL, terminating training		 --- 7.891299999999319 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_35abee57-d0fd-473a-af82-5cbb4debf03a/	
+/raw_data/Blob_AT/Blob/normal/config_random_3e2bd42e-c5d3-49fe-ab42-292a2f108948/	
+/raw_data/Blob_AT/Blob/normal/double_random_c291aad6-ab30-4e03-9c90-99b88bb8ded3/		Batch 4: MDL, terminating training		 --- 9.447332000003371 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_b911149a-ea10-449a-b024-e4013b96781f/		Batch 29: MDL, terminating training		 --- 140.7240110000057 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_8f7733c3-db4f-4497-b91c-2e56c680d59a/		Batch 4: MDL, terminating training		 --- 18.118948000003 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_6ef3472e-2b1f-427b-a0a7-f0a94a14e6ff/	
+/raw_data/Blob_AT/Blob/normal/double_random_c962619c-d500-4682-8d37-1d7fed1c975f/	
+/raw_data/Blob_AT/Blob/normal/model_random_631cdca6-3458-432c-922d-8a96831acf1c/		Batch 4: MDL, terminating training		 --- 16.362855999999738 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/double_random_60f3a336-91fd-419a-b1a4-5ebd017bdfa9/	
+/raw_data/Blob_AT/Blob/normal/config_random_a8640f1a-e6b7-45d8-8b90-921d3f7e40bf/	
+/raw_data/Blob_AT/Blob/normal/model_random_7399f947-a98d-4fe5-ab57-f0433dc9e7bf/	
+/raw_data/Blob_AT/Blob/normal/config_random_8c9c1161-0a1e-4c98-a9c8-1144c8e50981/	
+/raw_data/Blob_AT/Blob/normal/config_random_997961d4-f49c-422f-a9a7-c8f656e50353/	
+/raw_data/Blob_AT/Blob/normal/model_random_b734600c-2524-420b-a8ca-91d32c8151ef/		Batch 4: MDL, terminating training		 --- 11.624730000003183 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/config_random_8fb9fd24-501c-4b9c-88b0-84006478e285/		Batch 134: MDL, terminating training		 --- 787.0827920000011 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/model_random_47213443-853c-471f-b4d5-848ae8ef650f/	
+/raw_data/Blob_AT/Blob/normal/config_random_22eb8478-2f48-45e5-8657-c29d7a9a9765/	
+/raw_data/Blob_AT/Blob/normal/model_random_2ab7cba7-6fda-433a-90e0-511cd71851f7/		Batch 4: MDL, terminating training		 --- 12.172741000002134 seconds ---	
+
+/raw_data/Blob_AT/Blob/normal/config_random_d3a3cf5f-4661-4046-9067-5e813ee6a4dc/	
+/raw_data/Blob_AT/Blob/normal/double_random_eff78bad-d5a8-42f4-a93d-230e92a77c24/	
