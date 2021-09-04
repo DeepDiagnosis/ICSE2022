@@ -21,6 +21,9 @@ This repository contains the reproducibility package of DeepDiagnosis
 * this model(MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe) is detected by DeepDiagnosis and the accuracy = 20%
 #### [DeepLocalize Result](https://github.com/DeepDiagnosis/ICSE2022/tree/main/DeepLocalize%20Result)
 * Contains the results of DeepLocalize from AUTOTRAINER dataset
+#### [UMLUAT Result](https://github.com/DeepDiagnosis/ICSE2022/tree/main/UMLUAT%20Result)
+* Contains the results of UMLUAT from AUTOTRAINER dataset
+
 
 
 
