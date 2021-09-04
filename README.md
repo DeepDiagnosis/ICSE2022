@@ -6,13 +6,15 @@ This repository contains the reproducibility package of DeepDiagnosis
 #### Extractor Folder: 
 * contains the source code to extract (.h5) to source code
 #### AUTOTRAINER Model Code:
-* Contains the source code of AUTOTRAINER Models
+* Contains the source code of all AUTOTRAINER Models
 #### DeepDiagnosis Result:
-* Contains a result of DeepDiagnosis from AUTOTRAINER dataset
+* Contains the results of DeepDiagnosis from AUTOTRAINER dataset
 #### MOTIVATING EXAMPLE:
-* Contains the result of motivating example using AUTOTRAINER
+* Contains the results of the motivating example using AUTOTRAINER
 #### SaturatedActivation:
-* Contains experiment of stauarted activation for Sigmoid and Tanh
+* Contains the experiments of saturated activation for Sigmoid and Tanh
+#### difference threshold:
+* Contains the result of AUTOTRAINER on normal models with different threshold (accuracy =100%)
 
 
 
