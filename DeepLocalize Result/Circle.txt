@@ -1,0 +1,105 @@
+/raw_data/Circle_AT/Circle/repaired/model_169a3fa1-9453-4c11-96e7-8d662b90a7e7/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.0471589999999997 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_583d20a4-4313-4831-8424-726cdbdeace4/	
+/raw_data/Circle_AT/Circle/repaired/model_8de47bdc-c32c-48d8-b866-ae22c0e3a404/		Batch 1 layer 7: Error in forward, terminating training		 --- 1.522894000000008 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_37004339-cfca-432d-90c9-d379caf6deab/		Batch 4: MDL, terminating training		 --- 3.9172290000000203 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_ae33f2bc-662d-4d80-bd99-8f1db9a9512a/		Batch 4 layer 11: Error in forward, terminating training		 --- 2.6969780000000014 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_e8a6e959-2322-490d-abac-5c08c4203e55/		Batch 0 layer 25: Error in forward, terminating training		 --- 1.9911129999999844 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_8e28bdef-92a5-4ba1-9cd4-cd79a94b4f2c/		Batch 0 layer 27: Error in forward, terminating training		 --- 1.813086999999996 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_939fde25-5252-4349-ad92-99c34e72dc2a/		Batch 4 layer 0: Error in Weights, terminating training		 --- 2.640804000000003 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_de86773c-34f4-4b24-b74b-80eb627641c2/		Batch 4: MDL, terminating training		 --- 2.6118639999999687 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_580a6c25-dd6a-466c-b499-54970e5c01ae/		Batch 4: MDL, terminating training		 --- 2.621783999999991 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_d66b9e2c-f778-4ea7-a6cf-af353bef5f0f/		Batch 4: MDL, terminating training		 --- 2.631251999999961 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_01bb8f27-d0f5-4417-a371-b5fa455b4582/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.0399150000000077 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_49674a6b-f1cb-4d4e-be28-8c3cb29bcc2e/		Batch 4: MDL, terminating training		 --- 3.0207080000000133 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_de8e9f95-b6be-4929-85ea-58be4766dfb1/	
+/raw_data/Circle_AT/Circle/repaired/model_d064a5da-efba-4c1d-9199-7a167995bcdb/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.9545200000000023 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_ea62f3a2-8d78-4e14-9314-d67cbac23590/		Batch 74: MDL, terminating training		 --- 58.07710300000002 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_107dc22e-96e2-4f95-992d-863f97ee5552/		Batch 129: MDL, terminating training		 --- 112.42198400000007 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_4bb23834-5c32-4849-ad2c-2f3bf8979098/		Batch 54 layer 6: Error in Weights, terminating training		 --- 128.0024659999999 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_4a17fae1-62bf-42f9-9e7c-1cd993f1112b/		Batch 24: MDL, terminating training		 --- 55.06498399999998 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_4fe03af9-f600-4c22-939d-d773431fef78/		Batch 4: MDL, terminating training		 --- 3.257653000000005 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_dd8c879b-ae5d-4091-b307-95781009fbfb/		Batch 44: MDL, terminating training		 --- 76.35776299999998 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_74a96112-5ce5-4ce6-8e69-df08014f64a4/		Batch 4 layer 4: Error in Weights, terminating training		 --- 10.836493000000019 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_7a35c83b-7b99-44c9-b03e-ba66285ff0d2/		Batch 4: MDL, terminating training		 --- 4.6699259999999185 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_6d5d2e4c-3a90-45e4-94d0-2bd1fd16fbcc/		Batch 4: MDL, terminating training		 --- 3.4113870000001043 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_f3b249c7-987d-4dd6-ad67-bd703113258f/		Batch 4 layer 16: Error in Weights, terminating training		 --- 10.691552000000001 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_55371783-c56b-480f-94d4-d961d4a0a71d/		Batch 4: MDL, terminating training		 --- 3.6907509999999775 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_9499241c-b035-4b15-818e-4ff626c97cb1/		Batch 9 layer 0: Error in forward, terminating training		 --- 7.3038609999999835 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_f476c610-5c78-472d-837e-c8da2333c5bc/		Batch 4: MDL, terminating training		 --- 7.167861000000016 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_46edb7df-c39b-4d7d-9068-8cb4dfc7396a/	
+/raw_data/Circle_AT/Circle/repaired/double_random_0ea9538e-0222-4781-90f1-f908973d89d0/		Batch 9: MDL, terminating training		 --- 14.715687999999773 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_0a6ec704-1fa5-4b3e-81e3-461a3cc00279/		Batch 4: MDL, terminating training		 --- 3.9235979999998563 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_0de47279-f4de-4f06-8a5b-7c276ed8f1f7/		Batch 4 layer 0: Error in Weights, terminating training		 --- 3.859502000000248 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_0d799938-3102-4911-adcd-35613091cc47/		Batch 4: MDL, terminating training		 --- 4.098270999999841 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_78e503f1-4f45-4eac-88e4-1398ebe4d5c0/		Batch 4 layer 0: Error in Weights, terminating training		 --- 7.390343999999914 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_7ae4fc42-c3f2-45bb-be6c-8917340b375e/	
+/raw_data/Circle_AT/Circle/repaired/double_random_8d03f8b1-28c3-45b5-9843-2ab2aa656e4b/		Batch 4: MDL, terminating training		 --- 12.162609999999859 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_0eb8d545-75c8-4ecf-8df1-8e5c01c91505/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.2553219999999783 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_random_f76dd450-b446-4ecc-9efb-0feb857b03d1/	
+/raw_data/Circle_AT/Circle/repaired/config_random_a24c1550-730b-4314-a6d2-be8cf5568f1d/	
+/raw_data/Circle_AT/Circle/repaired/double_random_0c0d3a8c-2a60-43bd-8a20-137e57779190/		Batch 4: MDL, terminating training		 --- 5.104343999999401 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_4e392a6e-5532-4105-9c44-b893600dbc17/		Batch 4: MDL, terminating training		 --- 4.967251000000033 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_ea145976-a79e-4b12-b49e-791c9d83275a/	
+/raw_data/Circle_AT/Circle/repaired/double_random_37240c47-bf1f-4421-801a-6d742439a68b/		Batch 4: MDL, terminating training		 --- 12.98221999999987 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_56f293dd-d816-48d4-bb54-c0827f0827e5/		Batch 29 layer 0: Error in forward, terminating training		 --- 49.0431550000003 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_0ae2cd88-25d4-493b-b9c3-49eced0bf206/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.9107999999996537 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_5874246f-93ff-4e3b-9059-a004c0613505/		Batch 24: MDL, terminating training		 --- 32.08743400000003 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_4d37bcae-7822-4d23-9c62-5e831780efc5/		Batch 4: MDL, terminating training		 --- 5.4517720000003465 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_636bde2e-f805-46c6-a115-5ac3aa8a4955/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.2968689999997878 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_205c07d5-7d0f-4af6-9ee6-a07e7a096c3f/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 0.9277369999999792 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_1255ff67-2de9-42d1-9ad7-dbadf659e295/		Batch 74: MDL, terminating training		 --- 288.4703420000005 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_c54b3d2e-96cd-441a-be75-dc82ef4c669d/		Batch 0 layer 17: Error in forward, terminating training		 --- 1.0355839999992895 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_bf8e0ced-40c8-4d68-9850-a4e0c28b2bfe/		Batch 14: MDL, terminating training		 --- 19.069424999999683 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_11b87a95-67ad-443c-98dc-b23f497a1124/		Batch 4: MDL, terminating training		 --- 14.05601999999999 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_1c0ca52e-0059-45ae-a5c0-ae6fc6a9ea3d/		Batch 4: MDL, terminating training		 --- 5.7677199999998265 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_ebc164bf-c77c-4527-914d-e648d71ae3ab/		Batch 99: MDL, terminating training		 --- 298.0447349999995 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_9e7361d4-9021-4674-a60e-fcf47e1b04da/		 Batch 0 layer 0: Error in forward, terminating training 		 --- 1.0638070000004518 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_7c9d9c4a-e73a-4532-a20a-ad325730af92/		Batch 4 layer 2: Error in Weights, terminating training		 --- 5.800194999999803 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_14989730-cf38-4e95-9b92-c23bf866fb2c/		Batch 0 layer 9: Error in forward, terminating training		 --- 0.9589180000002671 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_c632dcbd-22da-4300-bbb7-3ff26bc1e680/		Batch 109: MDL, terminating training		 --- 379.1370960000004 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_6875b73e-a6e5-48a7-8b2a-03af05f47954/		Batch 39: MDL, terminating training		 --- 101.66863600000033 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_13875ca0-fcbc-406a-a797-663d7ad38a21/		Batch 4: MDL, terminating training		 --- 6.34899200000109 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_10702695-e7fb-416d-8d76-7db4e6053480/		Batch 0 layer 15: Error in forward, terminating training		 --- 0.9656880000002275 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_66ce69d7-ac12-4831-b1c7-957824373107/		Batch 4: MDL, terminating training		 --- 6.349447000000509 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_256189a9-c2e8-4f9e-b35d-5a42f5c0f90b/		Batch 219: MDL, terminating training		 --- 893.676469 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_969a276d-8ab5-40c6-b6f7-f3b6f42e54fb/		Batch 34 layer 8: Error in Weights, terminating training		 --- 57.37430000000131 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_9081c699-7739-48ed-b5c0-aa3f0558deb6/		Batch 4: MDL, terminating training		 --- 6.387686000000031 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/config_random_80577084-7062-4d1f-a19c-1a482933cb73/		Batch 14: MDL, terminating training		 --- 21.52583400000003 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_7f195ec8-87cc-47dd-a312-9549866b2143/		Batch 39: MDL, terminating training		 --- 153.1098689999999 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/double_random_50bf470a-d5cf-430e-9fd1-6a0564d1919b/	
+/raw_data/Circle_AT/Circle/repaired/double_random_b027fa7d-13a0-4f3f-b1eb-dd70e4c72a1a/		Batch 4: MDL, terminating training		 --- 7.994686999998521 seconds ---	
+/raw_data/Circle_AT/Circle/repaired/model_5ab0aeda-7383-4405-bd53-eab4125ad239/		Batch 4: MDL, terminating training		 --- 10.02578100000028 seconds ---	
+/raw_data/Circle_AT/Circle/normal/double_random_4028379a-ba27-4797-a7f0-dc1ae717e482/	
+/raw_data/Circle_AT/Circle/normal/model_random_e9776562-dee3-4947-9113-ed276bff94c7/	
+/raw_data/Circle_AT/Circle/normal/config_random_c7e5fe0b-9ab7-4be4-bee0-1a8bfd152aed/	
+/raw_data/Circle_AT/Circle/normal/model_random_b8da79ba-ef97-48e6-90f8-8f70ce32d1ee/	
+/raw_data/Circle_AT/Circle/normal/model_random_139d9a5a-8d06-4525-a66d-b29cc32ef707/	
+/raw_data/Circle_AT/Circle/normal/double_random_7f0bcbbb-99cf-410a-8715-1bb62b7e060c/	
+/raw_data/Circle_AT/Circle/normal/model_random_c8a327df-86f3-483a-9334-ff1443c0f89e/	
+/raw_data/Circle_AT/Circle/normal/double_random_42ef3168-b022-4bb0-b5fa-ccee78cb3f22/	
+/raw_data/Circle_AT/Circle/normal/double_random_ac22e4c1-4972-4c3d-aa7e-421b47d206af/	
+/raw_data/Circle_AT/Circle/normal/model_random_88f274c5-c63f-4562-a2be-499b74b67ff7/	
+/raw_data/Circle_AT/Circle/normal/double_random_76a557f2-7f4b-4a93-86dd-e199f3dc8bad/	
+/raw_data/Circle_AT/Circle/normal/config_random_c397b1b5-92e9-488e-93da-cd951c1ce982/	
+/raw_data/Circle_AT/Circle/normal/config_random_ee93ccbe-6b3c-45f3-bf27-3cbb41ce2378/		Batch 394: MDL, terminating training		 --- 3021.8472200000033 seconds ---	
+/raw_data/Circle_AT/Circle/normal/model_random_515ea6da-d9b2-48b1-ab64-c98503251c97/	
+/raw_data/Circle_AT/Circle/normal/model_random_7858c305-e1f8-4c38-af05-b6439752f24a/		Batch 4: MDL, terminating training		 --- 16.435198999999557 seconds ---	
+/raw_data/Circle_AT/Circle/normal/config_random_4e3f52dd-13bb-4cbd-8677-79f1f119b4e5/	
+/raw_data/Circle_AT/Circle/normal/model_random_84b9e92c-7bd5-475a-98af-02199dacefa7/	
+/raw_data/Circle_AT/Circle/normal/model_random_fcaf2479-4acc-4ff2-a9ad-53f48017d2fe/	
+/raw_data/Circle_AT/Circle/normal/double_random_32f52101-1f10-4926-8980-a400a1c3efe1/	
+/raw_data/Circle_AT/Circle/normal/model_random_41e9f616-8ad0-4e61-a40a-23206c764509/	
+/raw_data/Circle_AT/Circle/normal/config_random_b060fc17-d853-474c-9f2f-526a3772743c/	
+/raw_data/Circle_AT/Circle/normal/config_random_691dffd1-66f2-4ca8-a9c7-a8fe8916c4a1/		Batch 239: MDL, terminating training		 --- 1703.547516999999 seconds ---	
+/raw_data/Circle_AT/Circle/normal/model_random_f05964ff-6e54-4281-a442-100fa446d298/	
+/raw_data/Circle_AT/Circle/normal/model_random_6afd8ade-5019-428a-858a-58cdaca9bb34/	
+/raw_data/Circle_AT/Circle/normal/model_random_9a5b1683-667f-4399-87f4-661723016a61/	
+/raw_data/Circle_AT/Circle/normal/config_random_9802e37b-d666-43ce-a523-4ed700247ced/	
+/raw_data/Circle_AT/Circle/normal/model_random_c06b132f-fb90-43d8-9b20-c538ce7b6074/	
+/raw_data/Circle_AT/Circle/normal/double_random_cad62cfe-3f33-42f5-85d0-98e82cc6e85e/	
+/raw_data/Circle_AT/Circle/normal/double_random_4a5e10be-47c7-4b46-ae77-f994764e3ea3/	
+/raw_data/Circle_AT/Circle/normal/model_random_0db8c740-c4e4-478a-be86-eec69fe6023e/	
+/raw_data/Circle_AT/Circle/normal/config_random_9e845a17-1c39-4311-b906-401b150dda37/		Batch 24: MDL, terminating training		 --- 85.46726099999796 seconds ---	
+/raw_data/Circle_AT/Circle/normal/model_random_6676f345-de5d-4d66-a16f-954956d6b131/	
+/raw_data/Circle_AT/Circle/normal/model_random_d5a5f2d3-f05a-4843-b256-3ebd43bbb44c/	
+/raw_data/Circle_AT/Circle/normal/model_random_f991f64b-b421-4342-b243-662d6a63fc4b/	
