@@ -1,0 +1,68 @@
+ raw_data/MNIST_AT/MNIST/normal/model_random_c2d01deb-e024-4b24-bb69-103d4ab9a1c3/	138.224994	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_023a6605-7f9b-4452-9303-db3f2f379f83/	144.244808	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_cbc9f69a-5bf6-4d02-acb2-690ec3d0b63c/	71.75695599999995	2	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_db64fdf9-d0e1-4056-a6d8-7f4c628d2af3/	1617.5546080000001	43	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_5eee02f8-b5a8-4f25-874e-abf1fdea8f8b/	153.35665100000006	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_432fa2b4-aadc-470c-8f4b-ddcac23a94e9/	150.81767999999965	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_ae3941ba-b1b6-4921-900c-0fabd33a0086/	152.20184999999992	4	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_7a6c8f98-af46-4c9c-9275-fdee418ce659/	149.57199200000014	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_820f964f-07e5-416b-8cd4-718cff72c50e/	130.16570600000068	3	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_15a61569-3cca-4606-8cb1-7e829e0d0e17/	753.8562089999996	20	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_83805b96-fcad-4986-8d04-568542eb84a4/	181.89237599999979	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_b6c01c5a-fb02-4269-92bf-44d75cfd9ea0/	146.42145100000016	4	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_3c608150-9523-4282-b377-a463c12548a3/	146.23697600000014	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_6b28cf3e-afd7-490f-ba64-80067ee08f38/	113.79290700000001	3	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_ea4bb6a5-b539-4d4a-8c64-113ccc8a03ab/	178.01605000000018	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_de83b559-b570-4705-90e6-efa1fd4fadfb/	148.2028250000003	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_4f8ce001-678a-47c2-9775-83c3db8dc94c/	179.68478700000014	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_a90092b0-bf7e-4209-99e7-2beae96dcf8a/	144.92215100000067	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_487bebc4-e4e1-457c-90a0-7cc9e5780a76/	144.27107699999942	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_adf5e758-b5bd-459d-92ab-1a20f846a7ae/	311.4277940000011	7	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_fc403011-8567-4348-aabf-70dfc7e9bf01/	144.68298499999946	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_597043d8-41f4-4164-ab29-3417e4c48ed1/	150.3249390000001	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_5ceaf86b-1e62-4619-967e-118d5d806dda/	112.18698399999994	3	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_5c064b7b-4a82-40b9-86fa-9149e0fa077e/	147.0381550000002	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_5537e9f6-fbb9-4186-8250-b6b04e347121/	71.96936600000117	2	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_5cc568ad-45a5-430e-8f79-cf5c1a9c8bb4/	149.760970000003	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_7d9b9386-9d8c-44b0-9421-565754fdf7d4/	1245.9958619999998	35	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_9683a591-c44e-41fe-b0ed-58ee32c67bd0/	141.3270960000009	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe/	185.7368720000013	5	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_d303b869-b4db-4b0a-87da-c2dcac78ecf9/	144.469726000003	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_6a61dd5e-b4ba-4c84-950a-fe724422cac7/	72.05866700000115	2	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_f95921f6-0d34-414c-b776-145e922ec933/	143.03995399999985	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_1ece891b-979a-4192-ab5f-7085e1435abe/	148.7422370000022	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_41331691-2b9c-489e-a922-51a0843499e0/	142.6990590000023	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_f14db2c0-6dfe-424c-8d58-0bcc0369d009/	179.49183300000004	5	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_1f3254ba-de85-48c5-ba24-ee246c94108c/	146.9428939999998	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_5a39e6cc-b1d3-44a9-9dc8-256998b82423/	149.1099409999988	4	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_4975b273-a953-4de1-9b5b-6088302c4c84/	143.67675400000007	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_1ed98a53-6d6f-466d-81ba-ffd8a252f5b8/	36.678595999997924	1	[<Warning: Learning Rate is high>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_28890157-90c3-4d49-bbe4-24562659475c/	143.95417199999793	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_ca008e24-c0be-4138-9a76-e5e39a23d556/	149.9473050000015	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_ba637055-7435-499e-b48b-5a9b193c957e/	144.08508300000176	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_db1a1b32-8909-4918-89f1-996fe37bfae6/	140.60690899999827	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_89d8a218-e220-44a7-a5e9-0a70b234a604/	185.1006329999982	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_9f1314b4-4efb-4d67-bbbf-d572076477d5/	141.83298499999728	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_d0faa23e-b0be-41be-bf03-d40987f4c281/	186.3423670000011	5	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_d39f831a-de9d-4393-9b2d-60041dc70af4/	1291.9194270000007	31	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_42ef69d1-d254-4380-9cce-7d64df5a0e14/	814.3658339999965	22	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_d2c29e95-d33a-460c-a5d1-c19ad60c18a5/	776.2356939999954	22	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_7e32ca5c-9524-4c11-b587-9f54d6140784/	154.2636100000018	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_48acddc4-539a-4461-8a63-ccbb4af805b2/	778.001909999999	22	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_e2327207-f772-41eb-906b-5fb9c5f03bad/	148.57800500000303	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_b62865d9-e498-4b11-801a-07ef2117ac5e/	614.3483209999977	15	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_d4b58a16-6030-4324-8ede-bdbe3a1617b7/	70.92718500000046	2	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_2b47eded-785e-4051-bae8-838fbdbafe80/	147.19456399999763	4	[<Warning: Possible overfitting>, <Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_e22209fd-1d69-4959-a301-7b9dfb6218b8/	662.4590519999983	18	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_1bf64474-f0fa-4fd1-8219-c36cacde25a1/	144.7732460000043	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_47668d33-b2fb-48b0-887e-9f1fcf77d93a/	174.4275540000017	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_60151eb9-06c7-42ad-a7db-0f3cace0d77d/	803.2063729999936	19	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_7419a49b-7dcb-42f9-acff-82f4e3e81ad8/	90.81207100000029	2	[<Warning: Possible overfitting>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_a9b46257-740f-4ae7-bf4c-dd12acc28b4b/	150.09738600000128	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_ae3d4d47-4013-4045-8415-babcd14231c6/	142.58346999999776	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_166a7f2c-1019-4f09-bfeb-8f901d1bf6af/	150.19195899999613	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/config_random_f2937939-1780-4eb6-9121-34e08c423f4c/	1300.068468999998	37	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_5e43f6c7-0677-4f4d-9f00-70e31122b43c/	147.75287299999763	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_d0de56db-2358-4bf8-9634-4b29bbc71c59/	141.0585030000002	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/model_random_fa50f95e-9526-4e2b-bd40-e8c89826d72a/	140.36417300000176	4	[<Warning: Check validation accuracy>]	on_epoch_end
+ raw_data/MNIST_AT/MNIST/normal/double_random_8545c386-b809-4695-9efe-4a1fe20e287b/	173.73555199999828	4	[<Warning: Check validation accuracy>]	on_epoch_end

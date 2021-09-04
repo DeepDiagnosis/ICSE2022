@@ -1,0 +1,45 @@
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_e22c108d-7bfb-41a9-b5e7-3495910e496b/	111.28486099999999	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_614c3508-b3ee-43f1-a72b-bca8382cbce2/	125.70325600000001	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_3/	119.67533900000004	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_c04fea3c-92a9-4a2a-a213-7fc1e264ff48/	116.708932	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_2/	117.57827700000007	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_860cc2e8-1682-4f6e-aa3b-5a329fc804a7/	114.76047500000004	1	[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_ca8d6662-12f2-43dc-84a9-4849fa29bde9/	119.08212100000003	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_6ac5dcbb-d4fa-4351-adf1-8a4579db4b43/	122.93720099999996	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_4bc5fb07-4f8c-439e-abae-d42716aa1bda/	118.41598500000009	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_635723ea-5401-488a-a03f-5c2c16eb5d31/	119.33916299999987	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_823458fd-edbe-493f-ab58-b954d9f1b59b/	120.31990599999995	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_e0ae1e11-fd38-418e-a5cb-5285c495aed1/	116.73712599999999	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_80a306a0-0eb7-477f-96f8-43e9fe86ddba/	124.03504199999998	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_5f14d739-8760-4873-b05d-874280bae47b/	119.7044249999999	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_fff8290e-1d89-434f-ad4b-d2de10c507e9/	122.27903900000001	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_a17b7266-5603-4d6b-ba24-5631c92f871a/	128.65665799999988	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_505cd32d-1ac6-454c-abdd-5ddb6e4656d3/	117.58256000000006	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_c1bddb24-f549-4661-8518-3933df323913/	118.63518299999987	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_4b3b0925-1ba3-4a2b-8346-4e4c0be07c5b/	122.71649699999989	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_2a3b74fe-820f-4b5c-af04-88efec4dd86b/	119.91546199999993	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_813ba706-b075-47ec-b4e2-8cad5406be4e/	122.07234699999981	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_8f48d80a-8400-43d2-a270-3f3dcec001e8/	119.5517749999999	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_cd6e410a-65e0-4007-928a-8cede3a04377/	122.7012850000001	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_4dc53226-edfa-442b-b304-cdcd2d0e5319/	120.70711299999994	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_da019d09-7ed0-484d-88cb-65d0debf2956/	119.19518299999982	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_d481d083-d86e-40af-9613-51f5cc0f4354/	116.52704499999982	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_65ec95ba-3c23-4cd5-a170-61e8fcdf4683/	117.37170600000036	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_b9f3dc4b-5394-4d21-8deb-b6a85645491a/	126.48429899999974	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_1/	117.00064100000009	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_835bf661-c6b0-4064-8f9f-90d8b2c3c13b/	117.17018499999995	1	[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_1d575a45-92a6-4f84-8b1f-875d6d33d30a/	126.81151200000022	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_bffee81b-7f25-49bb-bb31-4257b736f531/	132.48484999999982	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_10942423-5573-4165-a9be-ad3a1f494718/	132.56010600000036	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_de52260a-6f71-4b7e-b1c5-cd8abf57a326/	115.16145499999993	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_9b970f4a-135f-4cc1-9132-c73831df2399/	116.70219799999995	1	[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_f0250c41-e043-4189-af2d-9268d2c6a122/	119.74876700000004	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_64daff97-9618-4245-9241-8bc9e8d89d04/	129.26537899999948	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_345b5a1a-70ab-426f-b628-34244d4626ab/	129.09526800000003	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_4e7cae4b-05a6-429d-87be-505a03c7e042/	129.52374599999985	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_2e42aee0-e0ba-475d-9c4a-06ba28bc33d2/	117.21524799999952	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_41924b3f-37e5-4370-b4d4-22aae77dfdee/	119.44085799999993	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_39a07f05-36d9-4404-bd8e-7955d30ec997/	117.3166029999993	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_142a7158-b2e1-4b44-b361-e01aad3505ab/	129.76717699999972	1	[<Error: Input data exceeds typical limits>, <Warning: Learning Rate is high>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/model_9ebf5bd7-de6f-4108-ba21-625900d76b1f/	126.56670200000008	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
+/raw_data/CIFAR-10_AT/CIFAR-10/repaired/double_random_f1bdd250-9f84-4c58-a20c-84b650211b9f/	121.79986199999985	1	[<Error: Input data exceeds typical limits>]	on_epoch_end
