@@ -4,7 +4,7 @@ This repository contains the reproducibility package of DeepDiagnosis
 
 ## Folders:
 #### [Extractor Folder](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Extractor): 
-* contains the source code to extract (.h5) to source code
+* Contains the source code to extract (.h5) to source code
 #### [AUTOTRAINER Model Code](https://github.com/DeepDiagnosis/ICSE2022/tree/main/AUTOTRAINER%20Model%20Code):
 * Contains the source code of all AUTOTRAINER Models
 #### [DeepDiagnosis Result](https://github.com/DeepDiagnosis/ICSE2022/tree/main/DeepDiagnosis%20Result):
@@ -19,6 +19,8 @@ This repository contains the reproducibility package of DeepDiagnosis
 * Complete result of Table 6
 #### [Normal model With 20 % Accuracy](https://github.com/DeepDiagnosis/ICSE2022/tree/main/MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe)
 * this model(MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe) is detected by DeepDiagnosis and the accuracy = 20%
+#### [DeepDiagnosis Result](https://github.com/DeepDiagnosis/ICSE2022/tree/main/DeepLocalize%20Result)
+* Contains the results of DeepLocalize from AUTOTRAINER dataset
 
 
 
