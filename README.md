@@ -3,7 +3,7 @@ This repository contains the reproducibility package of DeepDiagnosis
 
 
 ## Folders:
-#### Extractor Folder: 
+#### [Extractor Folder](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Extractor): 
 * contains the source code to extract (.h5) to source code
 #### AUTOTRAINER Model Code:
 * Contains the source code of all AUTOTRAINER Models
