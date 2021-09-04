@@ -1,4 +1,0 @@
-Blob/failed/double_random_523a23e6-2a8a-4f4e-9bfd-bf6e03e2c5c6/		Batch 4 layer 0: Error in forward, terminating training		 --- 6.6497980000000005 seconds ---	
-
-Blob/failed/double_random_bd66f081-e4b6-431e-bc4b-2857d6c7cf47/		Batch 4: MDL, terminating training		 --- 6.682461000000002 seconds ---	
-
