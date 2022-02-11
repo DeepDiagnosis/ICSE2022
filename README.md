@@ -1,7 +1,5 @@
 # DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs
 
-
-## DeepDiagnosis
 To use DeepDiagnosis, you need to add our callback as subclass in your keras.callbacks.py file.
 
 The core principle of our callback to get a view on internal states and statistics of the model during training.
