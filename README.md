@@ -16,8 +16,6 @@ model.fit(np.arange(100).reshape(5, 20), np.zeros(5), epochs=10, batch_size=1,
 ...                     callbacks=[callback], verbose=0)
 ```
 
-
-
 ## Prerequisites
 
 Version numbers below are of confirmed working releases for this project.
