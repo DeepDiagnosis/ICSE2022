@@ -37,7 +37,7 @@ Version numbers below are of confirmed working releases for this project.
 ## BibTeX Reference
 If you find this [paper](https://conf.researchr.org/details/icse-2022/icse-2022-papers/35/DeepDiagnosis-Automatically-Diagnosing-Faults-and-Recommending-Actionable-Fixes-in-D) useful in your research, please consider citing:
 
-    @inproceedings{wardat2021deepdiagnosis,
+@inproceedings{wardat2021deepdiagnosis,
   author={Mohammad Wardat and Breno Dantas Cruz and Wei Le and Hridesh Rajan},
   title={DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs}, 
   booktitle = {ICSE'22: The 44th International Conference on Software Engineering},
