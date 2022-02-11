@@ -37,19 +37,17 @@ Version numbers below are of confirmed working releases for this project.
 ## BibTeX Reference
 If you find this [paper](https://conf.researchr.org/details/icse-2022/icse-2022-papers/35/DeepDiagnosis-Automatically-Diagnosing-Faults-and-Recommending-Actionable-Fixes-in-D) useful in your research, please consider citing:
 
-@inproceedings{wardat2021deepdiagnosis,
-  author={Mohammad Wardat and Breno Dantas Cruz and Wei Le and Hridesh Rajan},
-  title={DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs}, 
-  booktitle = {ICSE'22: The 44th International Conference on Software Engineering},
-  location = {Pittsburgh, PA, USA},
-  month = {May 21-May 29, 2022},
-  year = {2022},
-  entrysubtype = {conference}
-}
-
-
-This repository contains the reproducibility package of DeepDiagnosis
-## Folders:
+    @inproceedings{wardat2021deepdiagnosis,
+    author={Mohammad Wardat and Breno Dantas Cruz and Wei Le and Hridesh Rajan},
+    title={DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs}, 
+    booktitle = {ICSE'22: The 44th International Conference on Software Engineering},
+    location = {Pittsburgh, PA, USA},
+    month = {May 21-May 29, 2022},
+    year = {2022},
+    entrysubtype = {conference}
+    }
+    
+## This repository contains the reproducibility package of DeepDiagnosis
 #### [Extractor Folder](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Extractor): 
 * Contains the source code to extract (.h5) to source code
 #### [AUTOTRAINER Model Code](https://github.com/DeepDiagnosis/ICSE2022/tree/main/AUTOTRAINER%20Model%20Code):
