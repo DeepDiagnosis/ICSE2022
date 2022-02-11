@@ -1,7 +1,54 @@
-# ICSE2022
+# DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs
+
+
+## DeepDiagnosis
+To use DeepDiagnosis, you need to add our callback as subclass in your keras.callbacks.py file.
+
+The core principle of our callback to get a view on internal states and statistics of the model during training.
+
+Then you can pass our callback `DeepDiagnosis()` to the `.fit()` method of a model as following:
+
+```python
+callback = keras.callbacks.DeepLocalize(inputs, outputs, layer_number, batch_size, startTime)
+model = keras.models.Sequential()
+model.add(keras.layers.Dense(64))
+model.add(keras.layers.Activation(activations.relu))
+model.compile(keras.optimizers.SGD(), loss='mse')
+model.fit(np.arange(100).reshape(5, 20), np.zeros(5), epochs=10, batch_size=1, 
+...                     callbacks=[callback], verbose=0)
+```
+
+
+
+## Prerequisites
+
+Version numbers below are of confirmed working releases for this project.
+
+    python 3.6.5
+    Keras  2.2.0
+    Keras-Applications  1.0.2
+    Keras-Preprocessing 1.0.1  
+    numpy 1.19.2
+    pandas 1.1.5
+    scikit-learn 0.21.2
+    scipy 1.6.0
+    tensorflow 1.14.0
+
+## BibTeX Reference
+If you find this [paper](https://conf.researchr.org/details/icse-2022/icse-2022-papers/35/DeepDiagnosis-Automatically-Diagnosing-Faults-and-Recommending-Actionable-Fixes-in-D) useful in your research, please consider citing:
+
+    @inproceedings{wardat2021deepdiagnosis,
+  author={Mohammad Wardat and Breno Dantas Cruz and Wei Le and Hridesh Rajan},
+  title={DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs}, 
+  booktitle = {ICSE'22: The 44th International Conference on Software Engineering},
+  location = {Pittsburgh, PA, USA},
+  month = {May 21-May 29, 2022},
+  year = {2022},
+  entrysubtype = {conference}
+}
+
+
 This repository contains the reproducibility package of DeepDiagnosis
-
-
 ## Folders:
 #### [Extractor Folder](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Extractor): 
 * Contains the source code to extract (.h5) to source code
