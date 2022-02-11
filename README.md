@@ -9,7 +9,7 @@ The core principle of our callback to get a view on internal states and statisti
 Then you can pass our callback `DeepDiagnosis()` to the `.fit()` method of a model as following:
 
 ```python
-callback = keras.callbacks.DeepLocalize(inputs, outputs, layer_number, batch_size, startTime)
+callback = keras.callbacks.DeepDiagnosis(inputs, outputs, layer_number, batch_size, startTime)
 model = keras.models.Sequential()
 model.add(keras.layers.Dense(64))
 model.add(keras.layers.Activation(activations.relu))
