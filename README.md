@@ -1,10 +1,10 @@
 # DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs
 
-To use DeepDiagnosis, you need to add our callback as subclass in your keras.callbacks.py file.
+To use DeepDiagnosis, you need to add our callback as a subclass in your keras.callbacks.py file.
 
-The core principle of our callback to get a view on internal states and statistics of the model during training.
+The core principle of our callback is to get a view of the internal states and statistics of the model during training.
 
-Then you can pass our callback `DeepDiagnosis()` to the `.fit()` method of a model as following:
+Then you can pass our callback `DeepDiagnosis()` to the `.fit()` method of a model as follows:
 
 ```python
 callback = keras.callbacks.DeepDiagnosis(inputs, outputs, layer_number, batch_size, startTime)
@@ -18,7 +18,7 @@ model.fit(np.arange(100).reshape(5, 20), np.zeros(5), epochs=10, batch_size=1,
 
 ## Prerequisites
 
-Version numbers below are of confirmed working releases for this project.
+The version numbers below were confirmed to work with the current release:
 
     python 3.6.5
     Keras  2.2.0
@@ -54,11 +54,11 @@ If you find this [paper](https://conf.researchr.org/details/icse-2022/icse-2022-
 * Contains the results of the motivating example using AUTOTRAINER
 #### [SaturatedActivation](https://github.com/DeepDiagnosis/ICSE2022/tree/main/SaturatedActivation):
 * Contains the experiments of saturated activation for Sigmoid and Tanh
-#### [difference threshold](https://github.com/DeepDiagnosis/ICSE2022/tree/main/difference%20threshold):
+#### [Difference threshold](https://github.com/DeepDiagnosis/ICSE2022/tree/main/difference%20threshold):
 * Contains the result of AUTOTRAINER on normal models with different threshold (accuracy =100%)
 #### [Table 6](https://github.com/DeepDiagnosis/ICSE2022/tree/main/Table%206)
 * Complete result of Table 6
-#### [Normal model With 20 % Accuracy](https://github.com/DeepDiagnosis/ICSE2022/tree/main/MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe)
+#### [Normal model with 20 % Accuracy](https://github.com/DeepDiagnosis/ICSE2022/tree/main/MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe)
 * this model(MNIST_Normal/double_random_99fe3625-3c58-4766-968e-7d40401237fe) is detected by DeepDiagnosis and the accuracy = 20%
 #### [DeepLocalize Result](https://github.com/DeepDiagnosis/ICSE2022/tree/main/DeepLocalize%20Result)
 * Contains the results of DeepLocalize from AUTOTRAINER dataset
